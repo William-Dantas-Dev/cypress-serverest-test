@@ -18,6 +18,10 @@
   },
   "homepage": "https://github.com/William-Dantas-Dev/cypress-serverest-test#readme",
   "devDependencies": {
+    "@types/joi": "^17.2.2",
     "cypress": "^15.0.0"
+  },
+  "dependencies": {
+    "joi": "^18.0.1"
   }
 }
