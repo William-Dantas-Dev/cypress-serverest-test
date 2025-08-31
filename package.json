@@ -1,0 +1,23 @@
+{
+  "name": "cypress-serverest-test",
+  "version": "1.0.0",
+  "description": "- Node.js (recomendamos versão 20 ou superior)\r - npm (instalado automaticamente com o Node.js)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/William-Dantas-Dev/cypress-serverest-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/William-Dantas-Dev/cypress-serverest-test/issues"
+  },
+  "homepage": "https://github.com/William-Dantas-Dev/cypress-serverest-test#readme",
+  "devDependencies": {
+    "cypress": "^15.0.0"
+  }
+}
